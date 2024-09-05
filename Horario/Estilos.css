@@ -1,0 +1,48 @@
+.materia {
+    background-color: coral;
+}
+
+.grupo {
+    background-color:lightgreen;
+}
+
+.dias {
+    background-color: violet;
+}
+
+.profesor {
+    background-color:lightskyblue;
+}
+
+.nombre {
+    background-color:lightsteelblue;
+}
+
+.libres {
+    background-color:lightpink;
+}
+
+.a1 {
+    background-color: lightcoral;
+}
+
+.l {
+    background-color: lightslategray;
+}
+
+.a4 {
+    background-color: peru;
+}
+
+.g {
+    background-color: darkseagreen;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+h1 {
+    text-align: center;
+}
